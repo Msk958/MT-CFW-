@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768379864096,
+      "tag": "0000_workable_joystick",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768380032136,
+      "tag": "0001_normal_betty_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768385250386,
+      "tag": "0002_overconfident_next_avengers",
+      "breakpoints": true
+    }
+  ]
+}
